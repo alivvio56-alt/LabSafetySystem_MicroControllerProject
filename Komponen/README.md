@@ -16,7 +16,12 @@ Sensor asap digunakan untuk mendeteksi keberadaan gas atau asap di lingkungan se
 
 **LCD 16x2 I2C**
 
-LCD berfungsi sebagai media tampilan informasi bagi pengguna. Dalam rangkaian ini, LCD menampilkan status sistem seperti kondisi "aman" atau saat sistem sedang aktif. Penggunaan modul I2C memungkinkan komunikasi hanya dengan dua pin (SDA dan SCL), sehingga lebih efisien dan rapi dalam perakitan.
+LCD 16x2 I2C adalah layar kecil yang dapat menampilkan 16 karakter per baris dalam dua baris, dan modul I2C di belakangnya membuat komunikasi dengan mikrokontroler jadi jauh lebih sederhana karena hanya membutuhkan dua pin saja (SDA dan SCL). Modul ini dipakai untuk menampilkan status sistem seperti "AMAN", "AKTIF", atau pesan lain agar pengguna tahu apa yang sedang terjadi tanpa harus menebak. Dibandingkan koneksi paralel biasa, I2C membuat rangkaian lebih rapi, menghemat pin mikrokontroler, dan lebih mudah diprogram berkat dukungan library yang sudah siap pakai.
+
+Poin penting:
+• Menghemat 6–8 pin menjadi hanya 2 pin.
+• Rangkaian lebih rapi dan kecil kemungkinan salah sambung.
+• Bisa berbagi jalur dengan perangkat I2C lain selama alamat berbeda.
 
 <img width="474" height="474" alt="OIP" src="https://github.com/user-attachments/assets/c5eabd2b-4048-443b-aa1d-7f206a9ea064" />
 
