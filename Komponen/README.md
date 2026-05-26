@@ -2,7 +2,7 @@
 
 <img width="474" height="474" alt="Arduio UNO R4" src="https://github.com/wiizzz-ops/Komponen-Projek/blob/d4fb427279a219c31884a77e188343d6b15fd81f/Arduino%20UNO%20R4.webp" />
 
-**Arduino UNO**
+**Arduino UNO R4**
 
 Arduino UNO berfungsi sebagai pusat kendali utama dalam rangkaian ini. Semua data dari sensor asap diproses oleh Arduino untuk menentukan apakah kondisi aman atau berbahaya. Arduino kemudian mengontrol output seperti LED, buzzer, dan LCD berdasarkan kondisi tersebut, serta menangani komunikasi UART (Serial) dan interrupt dari tombol reset agar sistem bisa merespons dengan cepat.
 
