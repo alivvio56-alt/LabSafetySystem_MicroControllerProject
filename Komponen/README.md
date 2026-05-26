@@ -1,6 +1,6 @@
 **Komponen yang Digunakan**
 
-<img width="474" height="474" alt="Arduio UNO" src="https://github.com/user-attachments/assets/52f4a193-9515-472c-8225-019080f1e426" />
+<img width="474" height="474" alt="Arduio UNO" src="[https://github.com/user-attachments/assets/52f4a193-9515-472c-8225-019080f1e426](https://www.electronics-lab.com/wp-content/uploads/2024/01/Arduino-UNO-R4-WiFi-1.jpg)" />
 
 **Arduino UNO**
 
