@@ -1,6 +1,6 @@
 **Komponen yang Digunakan**
 
-<img width="474" height="474" alt="Arduio UNO" src="https://github.com/wiizzz-ops/Komponen-Projek/blob/d4fb427279a219c31884a77e188343d6b15fd81f/Arduio%20UNO.webp" />
+<img width="474" height="474" alt="Arduio UNO R4" src="https://github.com/wiizzz-ops/Komponen-Projek/blob/d4fb427279a219c31884a77e188343d6b15fd81f/Arduino%20UNO%20R4.webp" />
 
 **Arduino UNO**
 
