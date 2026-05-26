@@ -1,6 +1,6 @@
 **Komponen yang Digunakan**
 
-<img width="474" height="474" alt="Arduio UNO" src="[https://github.com/user-attachments/assets/52f4a193-9515-472c-8225-019080f1e426](https://www.electronics-lab.com/wp-content/uploads/2024/01/Arduino-UNO-R4-WiFi-1.jpg](https://github.com/wiizzz-ops/Komponen-Projek/blob/main/Arduio%20UNO.webp?raw=true)" />
+<img width="474" height="474" alt="Arduio UNO" src="https://github.com/user-attachments/assets/52f4a193-9515-472c-8225-019080f1e426](https://www.electronics-lab.com/wp-content/uploads/2024/01/Arduino-UNO-R4-WiFi-1.jpg](https://github.com/wiizzz-ops/Komponen-Projek/blob/main/Arduio%20UNO.webp?raw=true)](https://github.com/wiizzz-ops/Komponen-Projek/blob/d4fb427279a219c31884a77e188343d6b15fd81f/Arduio%20UNO.webp" />
 
 **Arduino UNO**
 
