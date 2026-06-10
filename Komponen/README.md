@@ -64,3 +64,15 @@ Breadboard berfungsi sebagai tempat merangkai semua komponen tanpa perlu solder.
 **Kabel Jumper**
 
 Kabel jumper digunakan untuk menghubungkan antar komponen dalam rangkaian. Kabel ini memungkinkan aliran listrik dan sinyal dari Arduino ke komponen lain seperti sensor, LED, buzzer, dan LCD.
+
+<img width="474" height="474" alt="DHT22" src="https://github.com/wiizzz-ops/Komponen-Projek/blob/3c7bf08eb9658e3cfb1de1af1bd17f426a02d98d/dht22-digital-temperature-and-humidity-sensor-module4-550x550.jpg" />
+
+**DHT22**
+
+DHT22 digunakan untuk mengukur suhu dan kelembapan lingkungan secara digital. Pada proyek ini, data suhu digunakan sebagai salah satu parameter keselamatan laboratorium selain sensor asap. Jika suhu melebihi batas yang telah ditentukan, sistem akan menganggap kondisi berbahaya dan mengaktifkan alarm. Dibandingkan DHT11, DHT22 memiliki akurasi yang lebih baik dan rentang pengukuran yang lebih luas sehingga lebih cocok digunakan untuk monitoring lingkungan laboratorium.
+
+Poin penting: <br>
+• Mengukur suhu dan kelembapan secara digital. <br>
+• Akurasi lebih baik dibanding DHT11. <br>
+• Digunakan sebagai parameter tambahan dalam deteksi kondisi bahaya. <br>
+• Data suhu ditampilkan pada LCD dan dikirim ke ESP32 untuk monitoring jarak jauh. <br>
