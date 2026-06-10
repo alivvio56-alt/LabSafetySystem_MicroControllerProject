@@ -101,7 +101,7 @@ Poin penting: <br>
 
 ---
 
-<img width="474" height="474" alt="Flame Sensor" src="https://github.com/wiizzz-ops/Komponen-Projek/blob/d4fb427279a219c31884a77e188343d6b15fd81f/Arduino%20UNO%20R4.webp" />
+<img width="474" height="474" alt="Flame Sensor" src="https://github.com/wiizzz-ops/Komponen-Projek/blob/3c7bf08eb9658e3cfb1de1af1bd17f426a02d98d/sensor%20api.jpeg" />
 
 **Sensor Api (flame Sensor)**
 
@@ -115,7 +115,7 @@ Poin penting: <br>
 
 ---
 
-<img width="474" height="474" alt="ESP32" src="https://github.com/wiizzz-ops/Komponen-Projek/blob/d4fb427279a219c31884a77e188343d6b15fd81f/Arduino%20UNO%20R4.webp" />
+<img width="474" height="474" alt="ESP32" src="https://github.com/wiizzz-ops/Komponen-Projek/blob/3c7bf08eb9658e3cfb1de1af1bd17f426a02d98d/esp32-devkitc-ve_n.jpg" />
 
 **ESP32**
 
